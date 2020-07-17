@@ -1,7 +1,6 @@
 # textmining
- identify content of unnamed text files and reorganise them into subfolders
 
-[Data](https://github.com/SandraLeriche/textmining/tree/master/data) contains unnamed documents (corpus) to analyse
+[Data](https://github.com/SandraLeriche/textmining/tree/master/data) contains unnamed documents (corpus) to analyse and rename
 
 [Report](https://github.com/SandraLeriche/textmining/tree/master/report) is the professional report on the analysis completed that I invite you to read
 
